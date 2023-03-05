@@ -1,3 +1,3 @@
-# website
+# Website
 
-### this is a website for calculator
+### This is a website for calculator
